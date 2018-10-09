@@ -52,6 +52,10 @@ Check out the [Wiki](https://github.com/snickers/snickers/wiki/How-to-Use-the-AP
 4. Push to the branch: `git push origin my-awesome-new-feature`
 5. Submit a pull request
 
+
+##Heroku-Deployment
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## License
 
 This code is under [Apache 2.0 License](https://github.com/snickers/snickers/blob/master/LICENSE).
